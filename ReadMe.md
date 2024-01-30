@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josesuarez03&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎵 Music:
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=56hx85jtdfdonodjjmqoa1pn1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=56hx85jtdfdonodjjmqoa1pn1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=56hx85jtdfdonodjjmqoa1pn1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=56hx85jtdfdonodjjmqoa1pn1&redirect=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=josesuarez03&icon=9&color=12)](https://visitcount.itsvg.in)
