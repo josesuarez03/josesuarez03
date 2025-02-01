@@ -15,11 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=josesuarez03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<img src="https://raw.githubusercontent.com/josesuarez03/josesuarez03/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/56hx85jtdfdonodjjmqoa1pn1">
